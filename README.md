@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Ashvin. I enjoy building meaningful products and delivering unique experiences to end-users, from the design stage right up until it hits production.
+
+- 🔭 I’m currently working with SuperProcure to help businesses make their logistical processes more efficient.
+- 🌱 I’m currently learning TypeScript, Docker, React-Native
+- 👯 I’m looking to collaborate with risk tolerant people and build exciting new products and software
+- 🤔 I’m looking for help with GoLang
+- 💬 Ask me about Bitcoin
+- 📫 How to reach me: @ashvinpanicker
+- ⚡ Fun fact: My github username was created by hulk smashing the keyboard and remembering the combination of letters that appeared on screen.
+ 
 <!--
 **agnjkafgh/agnjkafgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
