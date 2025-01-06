@@ -2,7 +2,7 @@
 
 I'm Ashvin. I enjoy building meaningful products and delivering unique experiences to end-users, from the design stage right up until it hits production.
 
-- 🔭 I’m currently working on an app that gamifies fitness in React-Native
+- 🔭 I’m currently working on helping small businesses with their online presence
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate with risk tolerant people to build exciting new products and software
 - 💬 Ask me about Bitcoin, Startups, Productivity, Travel, Music, Kitesurfing
