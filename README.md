@@ -6,7 +6,7 @@ I'm Ashvin. I enjoy building meaningful products and delivering unique experienc
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate with risk tolerant people to build exciting new products and software
 - 💬 Ask me about Bitcoin, Startups, Productivity, Travel, Music, Kitesurfing
-- 📫 How to reach me: @ashvinpanicker
+- 📫 How to reach me: [Contact me](https://www.ashvinpanicker.com/#contact)
 
 ## 💻 Tech Stack:
 ### 1. Frontend (Core)
@@ -23,7 +23,8 @@ I'm Ashvin. I enjoy building meaningful products and delivering unique experienc
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashvin-panicker) 
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashvinpanicker)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/ashvinpanicker)
 <!--
 **agnjkafgh/agnjkafgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
